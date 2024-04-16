@@ -3,8 +3,11 @@ import Link from "next/link";
 export default function minimalist() {
     const challenges = [
         {
-            title: '30 Days Minimalist Components',
+            title: 'Tesla Heropage',
             route: '/day1minimalist'
+        },
+           { title: 'Reelables Heropage',
+            route: '/day2minimalist'
         },
     ]
 
