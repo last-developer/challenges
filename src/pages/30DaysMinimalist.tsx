@@ -9,6 +9,9 @@ export default function minimalist() {
            { title: 'Reelables Heropage',
             route: '/day2minimalist'
         },
+           { title: 'Evidence Dark Mode',
+            route: '/day3minimalist'
+        },
     ]
 
     return (
