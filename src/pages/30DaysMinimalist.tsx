@@ -6,11 +6,17 @@ export default function minimalist() {
             title: 'Tesla Heropage',
             route: '/day1minimalist'
         },
-           { title: 'Reelables Heropage',
+        {
+            title: 'Reelables Heropage',
             route: '/day2minimalist'
         },
-           { title: 'Evidence Dark Mode',
+        {
+            title: 'Evidence Dark Mode',
             route: '/day3minimalist'
+        },
+        {
+            title: 'Roame Minimalist Hero page',
+            route: '/day4minimalist'
         },
     ]
 
