@@ -18,6 +18,10 @@ export default function minimalist() {
             title: 'Roame Minimalist Hero page',
             route: '/day4minimalist'
         },
+        {
+            title: 'Aviator overflow & padding fixed',
+            route: '/day5minimalist'
+        },
     ]
 
     return (
