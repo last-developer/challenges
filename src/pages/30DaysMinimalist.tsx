@@ -22,6 +22,10 @@ export default function minimalist() {
             title: 'Aviator overflow & padding fixed',
             route: '/day5minimalist'
         },
+        {
+            title: 'Getthera New Card',
+            route: '/day6minimalist'
+        },
     ]
 
     return (
