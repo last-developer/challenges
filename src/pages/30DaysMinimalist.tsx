@@ -30,6 +30,10 @@ export default function minimalist() {
             title: 'Draftwise Nextjs Router',
             route: '/day7minimalist/day7minimalist'
         },
+        {
+            title: 'Join Arc New Card',
+            route: '/day8minimalist'
+        },
     ]
 
     return (
