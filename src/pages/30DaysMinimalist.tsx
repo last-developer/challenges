@@ -26,6 +26,10 @@ export default function minimalist() {
             title: 'Getthera New Card',
             route: '/day6minimalist'
         },
+        {
+            title: 'Draftwise Nextjs Router',
+            route: '/day7minimalist/day7minimalist'
+        },
     ]
 
     return (
