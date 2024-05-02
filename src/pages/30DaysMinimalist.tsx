@@ -34,6 +34,14 @@ export default function minimalist() {
             title: 'Join Arc New Card',
             route: '/day8minimalist'
         },
+        {
+            title: 'Skio Card Container',
+            route: '/day9minimalist'
+        },
+        {
+            title: 'Permit Flow New Heropage ',
+            route: '/day10minimalist'
+        },
     ]
 
     return (
