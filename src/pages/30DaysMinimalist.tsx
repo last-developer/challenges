@@ -42,6 +42,10 @@ export default function minimalist() {
             title: 'Permit Flow New Heropage ',
             route: '/day10minimalist'
         },
+        {
+            title: 'One Month New Hero-section',
+            route: '/day11minimalist'
+        },
     ]
 
     return (
