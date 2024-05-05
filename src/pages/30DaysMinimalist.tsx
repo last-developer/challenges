@@ -50,6 +50,10 @@ export default function minimalist() {
             title: 'Teleo New Hero-section',
             route: '/day12minimalist'
         },
+        {
+            title: 'Retail Ready New Hero-section',
+            route: '/day13minimalist'
+        },
     ]
 
     return (
