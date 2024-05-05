@@ -54,6 +54,10 @@ export default function minimalist() {
             title: 'Retail Ready New Hero-section',
             route: '/day13minimalist'
         },
+        {
+            title: 'Openmart changes',
+            route: '/day14minimalist'
+        },
     ]
 
     return (
