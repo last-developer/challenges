@@ -58,6 +58,10 @@ export default function minimalist() {
             title: 'Openmart changes',
             route: '/day14minimalist'
         },
+        {
+            title: 'Etleap new herosection',
+            route: '/day15minimalist'
+        },
     ]
 
     return (
