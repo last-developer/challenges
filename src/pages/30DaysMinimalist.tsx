@@ -62,6 +62,10 @@ export default function minimalist() {
             title: 'Etleap new herosection',
             route: '/day15minimalist'
         },
+        {
+            title: 'Multiple UI Enhancements',
+            route: '/day16minimalist'
+        },
     ]
 
     return (
