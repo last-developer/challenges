@@ -74,6 +74,10 @@ export default function minimalist() {
             title: 'Multiple UI Enhancements',
             route: '/day18minimalist'
         },
+        {
+            title: 'Multiple UI Enhancements',
+            route: '/day19minimalist'
+        },
     ]
 
     return (
